@@ -1,27 +1,42 @@
-## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<!-- Encabezado -->
+<h1 align="center">¡Hola! 👋 Soy Full‑Stack Developer</h1>
 
-### 🛠 &nbsp;Tech Stack
+<!-- Descripción detallada -->
+<p align="center">
+  👨‍💻 Apasionado por diseñar y construir aplicaciones web completas que resuelvan problemas reales. Mi stack principal combina:
+  <ul>
+    <li><strong>Backend</strong> con <em>ASP.NET Core</em> y <em>ASP.NET MVC/WebForms</em> para arquitecturas limpias y escalables.</li>
+    <li><strong>Frontend</strong> con <em>React</em>, <em>jQuery</em> y <em>Bootstrap</em> para interfaces interactivas y responsivas.</li>
+    <li><strong>Bases de datos</strong> en <em>SQL Server</em> y <em>MySQL</em>, optimizando consultas y garantizando integridad.</li>
+    <li>Librerías y lenguajes complementarios: <em>C#</em>, <em>Visual Basic</em>, <em>JavaScript</em>.</li>
+  </ul>
+  Con experiencia en todo el ciclo de vida del software: diseño, desarrollo, pruebas y despliegue.
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<!-- GIF y Top Languages lado a lado -->
+<div align="center" width="100%">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDuarte29&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
+    </td>
+  </tr>
+<div/>
+
+
+---
+
+### 🛠️ Mi Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-563D7C?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/WebForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="WebForms"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="Visual Basic"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
